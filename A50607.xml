@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Memory of that faithful servant of Christ, William Carter late of Cumberland (deceased) revived in the testimonies of certain faithful Friends given concerning him, his faithful ministry and blessed end.</title>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50607</idno><idno type="EEBO-CITATION">7940573</idno>
+  <idno type="VID">40581</idno>
+  <idno type="EEBO-PROQUEST">2264218073</idno>
+  
+            <idno type="STC">Wing M1701A</idno>
+            <idno type="STC">ESTC R24016</idno>
+            <idno type="OCLC">07940573</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50607)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1210:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Memory of that faithful servant of Christ, William Carter late of Cumberland (deceased) revived in the testimonies of certain faithful Friends given concerning him, his faithful ministry and blessed end.</title>
+               </titleStmt>
+               <extent>[15], 92, [10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Northcott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Carter, William, d. 1686.</term>
+               <term type="topical_term">Society of Friends --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40581:1"/>
+            <pb facs="tcp:40581:1"/>
+            <p>MEMORY OF THAT Faithful Servant of Christ William Carter Late of <hi>Cumberland</hi> (Deceased,) REVIVED.</p>
+            <p>IN THE Testimonies of Certain Faithful Friends given concerning him, his Faithful Ministry and Blessed End</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Northcott,</hi> in <hi>George-Yard</hi> in <hi>Lumbard-street,</hi> MDXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:40581:2"/>
+            <pb n="1" facs="tcp:40581:2"/>
+            <head>The living Remembrance of my deceased Friend <hi>William Carter,</hi> draws from me this follow<g ref="char:EOLhyphen"/>ing Testimony concerning him.</head>
+            <p>IN as much as he was not only my familiar at home, but (through Providence) Companion and True Yoke-fellow abroad, both in <hi>Scotland</hi> and <hi>Ireland</hi> so from that know<g ref="char:EOLhyphen"/>ledge I had of him, with Service in his day, shall endeavour in part to set forth to others his worth.</p>
+            <p>He was a Man whom the Lord's Power had sweetly qualified, through which he was livingly indued with a Gift of the Ministry, in which Service he was greatly blest to the turning of many from Darkness to Light, <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d from Satan's deadly Power to God's, which lives forever, through the Livingness of which Power his deliberate Ministry was intellegibly delivered to the reaching of God's holy Witness in Peoples hearts, and to the raising of Life and living Sense, in the several respective Meetings of Friends, where the Lord was pleas'd to order him; for it was the delight of his Soul thus to be imploy'd in a Co-working with Christ, and not to be popular in the sight of men, but by the Grace of God to be good in his sight, and an Example of it to all Men; As this I know was his real desire, so 'twas his daily practice as did and doth b<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e a Minister of Christ, his self-denying Life, with mild, <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d grave Deportment at home and abroad, as many can witness, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> so suitable to his Ministry, which made it the more effectual. For since it was my Happiness to be his Compa<g ref="char:EOLhyphen"/>nion (as abovesaid) I often observed when he had come into a Meeting of Friends he would appear very low and mean; but being setled in his own gift, as his manner was there to wait upon the Lord, in which exercise God gave him a Sense of the present State of the Meeting, and when he opened his Mouth 'twould have been in meekness of Wisdom, but plainness of Speech; yet being delivered with Clemency it proved heart-affecting; and though his Testimony was sometimes sharp and very piercing, 'twas to such who dwelt not peaceably under the Yoke of Christ,
+<pb n="2" facs="tcp:40581:3"/>or remained only in the Profession of Truth, and did not <hi>Come under the Power of the Cross,</hi>
+               <note place="margin">
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6.14.</note> which crucifies to the World, for he could never bear with deceit under what pretence soever, but was rather a Terrour to evil Doers, so unresistable was that Power which spake through him upon such Occasions,<note place="margin">Merk <hi>6.7.</hi>
+               </note>
+               <hi>That un<g ref="char:EOLhyphen"/>clean and Evil Spirits were made subject;</hi> he was a true and faith<g ref="char:EOLhyphen"/>ful Warrier in the Lamb's Warfare, his Arrows did not return to the Quiver till the End was effected, wherefore they went forth; he was so frequently taught in Christ's School, the Place where true Discipline and holy Apostleship, is ever learnt, that he was fitted with matter suitable in his Ministry to every State, in fixing Judgment upon the Transgressor, but very merciful and full of Bowels to the Weeklings of the Flock; he would scarce sit down till his Life had an Answer in the meetings of Friends, but when he felt life in Friend's Answer, that Life in which he spoke, then was his Spirit easie, and so concluded in few words, for his Life did not consift in the multitude of words, but in the sweet Injoyment of the word nigh in the heart, unto which he often directed friends minds, through which he was <hi>instrumen<g ref="char:EOLhyphen"/>tal to beget others in Christ Jesus through the Gospel;</hi> he was a Man of deep Expertence of the dealings of God with his Soul, of which he would often speak in his Ministry for the incoura<g ref="char:EOLhyphen"/>ging of Old and Young, whose Feet the Lord had turned into the way towards spiritual <hi>Canaan,</hi> with frequent Exhortations to such, not to sit down by the way, but in faithfulness and unwea<g ref="char:EOLhyphen"/>ried minds, still to travail on, that no labour might be lost, but the Crown in the End might be obtained; these and such like Expressions being delivered in the Demonstration of the Spirit and Power of God, did so affect the Hearts of such who were travailing <hi>Sion</hi> ward, even to the breaking and tendering thereof, so that Tears would plentifully fall from their Eyes; As 'twas their gain, so not his loss: The Growth and Prosperity of the young Plants as well as Fruits in the Aged was his Soul's joy; for it pleased the Lord often to make use of him as a waterer of his own Heritage which was of his own planting, he was freely given up both to spend and be spent in Truth's Service, in and about which he spent much time and part of his substance; such was his Zeal for the Lord God and his Blessed Truth up<g ref="char:EOLhyphen"/>on Earth, that he could not make a gain of his gift, but labored <hi>that the Gospel might be free and he not chargeable</hi> to the Bre<g ref="char:EOLhyphen"/>thren; his Life was not dear to him for the Truth's sake, for
+<pb n="3" facs="tcp:40581:3"/>that was still of more value to him than either Life or Interest, in this World; for 'twas my lot to be with him in some parts of <hi>Ireland</hi> after the Distemper which took him away had ceast upon him, and though his Body was attended with very much Weakness, so that he was scarce able ride between Meeting and Meeting; yet when set down in a Meeting among Friends, not<g ref="char:EOLhyphen"/>withstanding his outward Man was weak, yet the inward strong through that Life which comes from the Lord, by which he was qualified and truly fitted with seasonable advice, even in the up soringing of Life in his own Heart which was very refreshing to others; he was indued with so much Patience in his Weak<g ref="char:EOLhyphen"/>ness, that I do not remember I ever heard him fret or murmur under his Exercise, but was freely given up to the Lord's dis<g ref="char:EOLhyphen"/>posal.</p>
+            <p>What shall I say more of this my Friend whom in the Lord I dearly loved, with whom my Spirit had a near Union and true Fellowship beyond words, even as <hi>Jonathan</hi> loved <hi>David,</hi> so I in my measure this my Friend, who in his day was a Preacher of Righteousness, in Conversation chaste and of few words, but sa<g ref="char:EOLhyphen"/>vory ministring Grace.</p>
+            <p>Dear <hi>William</hi> my Friend most dear, though thy Body be gone to the Grave, yet methinks now I feel thy Spirit lives, and is fresh and living with me at this time, in the remembrance of which together with the sweet Society I had with thee when in the Body, my Heart is broken into much Tenderness; may I not say of thee as Holy <hi>Paul</hi> said of himself when near departure,<note place="margin">
+                  <hi>2</hi> Tim. <hi>4 7.</hi>
+               </note>
+               <hi>Thou hast fought the good Fight, kept the Faith and finished thy Course,</hi> and it's my belief that thou hast received the Crown of Righteous<g ref="char:EOLhyphen"/>ness, which the righteous Judge gives to them who thus finisheth, even as Holy <hi>David</hi> bid,<note place="margin">
+                  <hi>Ps.</hi> 37.37</note>
+               <hi>Mark the upright man and behold the per<g ref="char:EOLhyphen"/>fect, for the End of that man is Peace.</hi> Farewel my Friend, Eternally farewel.</p>
+            <p>For since it pleased God to terminate his Days in this World, I found a Concern upon my Spirit, as one who ought a duty to the Memory of this worthy Servant of the Lord, that it might not be buried with the dead, but be kept in remembrance among the living, as it's written, <hi>the Righteous shall be had in Everlasting Remembrance,</hi> Psal. 112.6.</p>
+            <p>At his departure out of this Life he was so far remote from me, and beesides not knowing so much of his Weakness then as did some other Friends, so shall leave the manner and time to such as were
+<pb n="4" facs="tcp:40581:4"/>present; what I have writ concerning this my deceased Friend is premised, first for the discharge of my Duty; secondly that his Memory may be kept up among the Righteous; thirdly and lastly, where this may come, whether, where he was known or unknown, shall desire my Reader to consider our days spin fast away,<note place="margin">
+                  <hi>Ps.</hi> 45.7.</note> 'tis not long till an End will come to all Flesh, <hi>then happy forever will such be who have hated Wickedness and loved Righte<g ref="char:EOLhyphen"/>ousness,</hi> a Mansion in the Father's House shall they have, and ever be at rest in that Eternal Kingdom which is prepared for the Righteous; so that such we may be is the real desire of him who wisheth the welfare of all Men through Jesus Christ Our Lord forever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Peter Fearon.</signed>
+               <dateline>
+                  <hi>Broughton</hi> in <hi>Cum<g ref="char:EOLhyphen"/>berland</hi>
+                  <date>the <hi>22d.</hi> of the <hi>2d.</hi> Month, 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Richard Head <hi>his Testimony concerning</hi> William Carter.</head>
+            <p>THE remembrance of dear <hi>William Carter</hi> by me cannot easily be forgotten, for he was my dear Friend, whom I loved well for Truth's sake, and it was my Happiness often to injoy his Company, by which I have been many times greatly comforted because of the living Unity and Fellowship I had with him; he was one whom the Lord was pleased to visit in his tender Age in an acceptable Day, which by him was never forgotten, wherein the Lord was pleased to set the way of Life and Death before him, and through the goodness of God he made his Choice with <hi>Mary</hi> of that better part, which was never taken from him, and the Lord was pleased to call him forth into the Work of the Ministry; and through the ver<g ref="char:EOLhyphen"/>tuous Operations of the pure heavenly divine Life of Jesus that did so effectually operate in him, his Soul did many times mag<g ref="char:EOLhyphen"/>nifie the Name of the Lord in the midst of the Assemblies of his People; methinks I cannot but yet remember him, for his Life and Conversation doth yet preach amongst us; he was a Man of a meek and lowly Spirit, yet his Testimony was very quick and powerful; and did reach the Hearts of God's People, many a time so effectually as it did answer the Witness of God
+<pb n="5" facs="tcp:40581:4"/>in the Conscience, both to the condemning of all that which was contrary to the pure Truth; and also to the refreshing of that pure Plant of Righteousness in the Hearts of God's People; this was his great Exercise and Travail of Spirit many times amongst us; and I can truly say according to my Measure, with many more, his Ministry was very effectual to the same, which was both to his great Satisfaction and to our great Comfort that did partake of the same; and when his time here drew near an End and his Body did much decay, he still retained his Integrity towards the Lord, and nothing was more delightsome to him than to meet often with the Lord's People, and when met to feel of his living Power and Presence, which he often did to his great Comfort; so that I may safely say, when his outward Man did decay his inward Strength was renewed, so that it is my full belief he was fitted and prepared for his long home, and now he is gone to his rest, <hi>and blessed are the dead, which die in the Lord, from hence forth; yea saith the Spirit, that they may rest from their La<g ref="char:EOLhyphen"/>bours, and their Works do follow them.</hi>
+            </p>
+            <p>This Testimony is part of what rested upon my Spirit on the behalf of my very dear Friend, who is now deceased whom I truly loved and honoured in the Truth, for the Works sake unto which he was called.</p>
+         </div>
+         <div type="testimony">
+            <head>The Testimony of <hi>Thomas Lower</hi> concerning <hi>William Carter</hi> deceased.</head>
+            <p>THIS is my Testimony concerning our deceased Friend <hi>Wil<g ref="char:EOLhyphen"/>liam Carter,</hi> that he was ever since my Acquaintance with him a harmless innocent Man, and one whose Conversation was such as became the Gospel, and his Company was always very de<g ref="char:EOLhyphen"/>lightful unto me as often as I had the opportunity of injoying it: In his travailing in the Work of the Ministry, into which his En<g ref="char:EOLhyphen"/>trance was through the right door Christ Jesus, through whom all the true and faithful Labourers in the Gospel have their Admission into the Ministry, and his Service and Labour therein was not with the inticing words of Man's Wisdom, but in the plainness and soundness of Speech, reaching to the Witness of God in the Hearers as the Lord gave him utterance, and his words were the savour of life unto life unto all such as were hungring and thirst<g ref="char:EOLhyphen"/>ing after Righteousness, being accompanied with Power from
+<pb n="6" facs="tcp:40581:5"/>him who <hi>opens and no man can shut, and shuts and no man can open,</hi> by the opening of whose Life and Power he was enabled to minister living Refreshment unto the thirsty and to divide the word a<g ref="char:EOLhyphen"/>right unto others: And his Ministry was not in vain both in this his Native Country, and also in <hi>Ireland,</hi> where he laboured and travailed much in the Work and Service of the Lord, where his liness begun, under which he returned into <hi>England</hi> in the Fifth Month in the Year One Thousand Six Hundred Eighty Six, and had a great desire to have come to my House (in <hi>Lancashire</hi> being not much above Twenty Miles from his own House in <hi>Cumberland</hi>) and taken some Physick, but hearing that I was not releaned from my long Imprisonment in <hi>Cornwal,</hi> he deferred till he heard of my return, and then some Weeks after came to my House so weak, that he was three Days of coming, for he could hardly sit on Horse-back, nor come off his Horse but as he was helpt; so as it was marvellous unto me and my Family how he got over the Sands considering his Weakness, and the difficulty of the way, having the Tide to observe in three places, but that the Lord's Power sup<g ref="char:EOLhyphen"/>ported him, and carried him through in his Journey to my House, where being come and something given him to refresh him with, he was greatly comforted and well satisfied in his mind that he was gotten to my House, and seemed a while to be somewhat re<g ref="char:EOLhyphen"/>lieved, being at ease in his mind; but we found he still grew weak<g ref="char:EOLhyphen"/>er and weaker; and my Mother-in-law <hi>Margaret Fox</hi> and <hi>James Lancaster,</hi> and several other Friends came to visit him; and it be<g ref="char:EOLhyphen"/>ing askt him how he had setled his Estate, and how it was with him; he said he had setled his Estate before he came from home; and being broken into Tears through the Sense of God's Power which had often refreshed him in Meetings, said he had been faith<g ref="char:EOLhyphen"/>ful to the Lord in his Day and Time, which was now his Comfort, and more he spoke inwardly; but his Voice failing him could not be understood, but in a sweet peaceable quiet frame without any strugling with Death, breathed forth his last Breath the (<hi>14th.</hi> of the <hi>9th.</hi> Month, 1686,) which is returned to that gave it him, and I fully believe is entered into Everlasting Peace, Rest and Joy with the Lord.</p>
+            <closer>
+               <signed>Thomas Lower.</signed>
+               <dateline>
+                  <date>
+                     <hi>The 14th. Day of the 9th. Month</hi> 1686,</date>
+                  <hi>at</hi> Mark grange, <hi>and was buried the 10th., at the Friends Burying-place.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="7" facs="tcp:40581:5"/>
+            <head>Margaret Fox<hi>'s Testimony concerning dear</hi> William Carter.</head>
+            <p>I Have this Testimony to bear for him, he was a dear honest in<g ref="char:EOLhyphen"/>nocent Man, and did bear a faithful Testimony for the Lord, both in <hi>Scotland, Ireland,</hi> and several places in <hi>England,</hi> and was an Instrument in the Lord's hand, to bring many forth about the place where he lived, and gave up his House for God's People to meet in; And there are many convinced thereabouts, where there is a Meeting now kept: And though his Time in the Publick Ser<g ref="char:EOLhyphen"/>vice of Truth was not very long; yet he was very faithful and diligent in the Work of the Ministry, and very zealous for the Lord and his Truth; And many have cause to praise the Lord on his behalf. And he was willing to spend, and be spent for the Lord and his Truth, and so took a Sickness in <hi>Ireland,</hi> and came over from thence very weak, and after continued at his own House some time, and through much weakness and difficulty, got over to my Son <hi>Lowers,</hi> and there remained a few days in great weakness, and I went over to see him, and found him very like for death; and I askt him how it was with him? He answered it was very well with him inwardly, but in great weakness of Body. And within two days after he died in the Lord, and he hath his Reward of Happiness and Glory in the Kingdom thereof, and his Testimony lives, and his Works do follow him, and are of good report, who was an Instrument in the hand of the Lord, for the good of many, in that Country and Meeting to which he did be<g ref="char:EOLhyphen"/>long, being one of the first Plants, amongst the rest the Lord hath there raised; and though he be dead, he lives for the Lord and his Truth, in the Remembrance of many; Praises be to the Lord for evermore.</p>
+            <closer>
+               <signed>M. F.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>John Nicholson<hi>'s Testimony of and concerning</hi> William Carter.</head>
+            <p>I Have had good experience and knowledge of him above Twen<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Years, and can do no <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than give a short Account of his <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was a Man, that was enclining <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:40581:6"/>
+               <gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Lord: And in the time of his Profession of God and Christ; before he came to receive the Knowledge of the Truth thereof, was zealous and honest, according to what he knew; And he was of a meek Spirit, and did exceed many professing People in that time, in an honest Life and good Conversation, yet could not find remaining Satisfaction to his Soul therein, (to wit in a bare Profession;) For he did tell me, That there was a narrower way to the Kingdom of Heaven, than a bare Profession of God and Christ, so it pleased the Lord to shew him that way; For I be<g ref="char:EOLhyphen"/>ing at <hi>Pardshow</hi> Meeting, met with him there, and as we were coming homeward, he asked me how I did approve of this Peo<g ref="char:EOLhyphen"/>ples Profession, in Scorn called Quakers? My Answer was I did approve of it very well, and he replied in Meekness of Spirit, that he was then satisfied for Religion for ever; for said he, it is the Light of Christ, within that must be our Teacher and Leader; for who through believing and obeying Christ the Light of Life, and taking up the daily Cross to self, comes to witness true Peace with God.</p>
+            <p>And this my dear Friend and Brother, did good Service for God and his Truth in his day; for the Lord had given him a good gift in Preaching of the Gospel, and he made good use of it to the improving of the same, and he was very ready and willing to serve the Lord and his People in that Work, in which the Lord made him prosperous in his day; For he bore a faith<g ref="char:EOLhyphen"/>ful Testimony for him, both in <hi>England</hi> and <hi>Scotland;</hi> for when he was in <hi>Scotland,</hi> I did receive a Letter from him in the Love of God desiring me to keep faithful to the Lord and his Truth, and he would add to my Strength; and many godly Exhortations in Letters I received from him, from <hi>Ireland,</hi> and that his Love was great to Friends of our Meeting; for he was one of the first that was con<g ref="char:EOLhyphen"/>vinced in that part, and gave his House up for God's People to meet in; where we had many good and blessed Meetings, not only to his, but to the great Comfort and Satisfaction of many.</p>
+            <p>And he was willing to spend and be spent for the Lord and his Truth, and for the Preservation of his People in Love and Unity together; and accordingly did spend pretty much of his Time for several Years together, and also part of his Estate and strength of his Body freely, and faithfully in Truth's Service, as <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ful Minister of the Everlasting Gospel, so that he was made <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mmental for good unto many in his day, both in <hi>England,</hi>
+               <gap reason="illegible: page cropped" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:40581:6"/>upon his Body, so that, although he through Providence, got well home, yet his Weakness did so much increase, that he never got from under the same till he died; and not long before his departure, he had a desire to go to <hi>Thomas Lowers</hi> in <hi>Lancashire,</hi> where he finished his Course in the Faith of Jesus Christ, to the re<g ref="char:EOLhyphen"/>ceiving of the Crown of Life and of immortal Glory; and though his Body be laid down, the Memorial of his Life and Blame<g ref="char:EOLhyphen"/>less Conversation, lives with us, and we are often comforted in the Remembrance thereof; together with the many sweet and comfortable Opportunities we were made partakers of with him in our Meetings, as a living Instrument in the Lord's Hand, well fitted and prepared by his living Power and pure Spirit; and that in every good Word, Work and Service; yea surely he was a Man of an Excellent Spirit, and I cannot but lament the loss of him, being of that Meeting to which he did belong, <hi>(viz.)</hi> West-side in <hi>Cumberland;</hi> Howbeit, I am so well satisfied of his Eter<g ref="char:EOLhyphen"/>nal Happiness and well-being, in the Everlasting Kingdom of Glory, that I have Cause to bless the Lord on his behalf, who over all is worthy of Praise. Honour and Glory for evermore. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="testimony">
+            <head>
+               <hi>Thomas Stannix</hi>'s Testimony concerning <hi>William Carter,</hi> our dear Friend deceased.</head>
+            <p>AS for our dear Friend <hi>William Carter,</hi> I have this Testimo<g ref="char:EOLhyphen"/>ny to give for him, and that in the Sincerity of my Heart; he was a Man which was of a blameless Life and Conversation, and of a good report amongst Men; and not only so, but one which was zealous for the Prosperity of the blessed Truth, and a true and faithful Labourer in the Gospel of the Lord Jesus Christ; for as the Lord faith by the Prophet, I will make my People a willing People in the day of my Power; so the Lord had made him of a willing Mind, even to spend and be spent for the Lord and his Truth, that many might be reached unto and prevailed upon, in order to bring them into a Divine Sense of the pure Truth, that they might come on by degrees to know and experience the <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lessed Operation of the Spirit of God within themselves. Oh <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> often fresh and living in my remembrance, how zealous and <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he was many times, in the Work of the Ministry, <gap reason="illegible: page cropped" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+               <pb facs="tcp:40581:7"/>
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God we may, and that unto the End of Time; and that in order thereunto we may follow the Foot-steps of the faithful Followers of the Lamb, that none of us may faint in our minds by the way, or grow careless or unconcerned in our minds in the Work of the Lord, but that we may finish our Course in Faithfulness, as this faithful Servant of the Lord hath done.</p>
+            <p>For indeed it was a great Mercy and Blessing unto many, when the Lord raised up our dear Friend <hi>William Carter,</hi> to bear a faith<g ref="char:EOLhyphen"/>ful Testimony for the Lord and his Truth, amongst us, in that dark Corner of the Earth, where he lived; for he was one of the first, that was convinced of the Truth in that part, who did bear a faithful Testimony for God both in <hi>Scotland</hi> and <hi>Ireland,</hi> and in many places of <hi>England,</hi> where the Lord was pleased to order him: For I believe it was his diligent Care, to answer the Lord in what he required of him, while he had a day to spend; so that I am fully satisfied, that he hath received his Blessed Recompence of Reward, and is at Rest with the Lord; As it is written, <hi>Bles<g ref="char:EOLhyphen"/>sed are the dead, which die in the Lord, for they rest from their La<g ref="char:EOLhyphen"/>bours, and their Works do follow them; so unto the Name of the Lord our God, and to the Lamb that sits upon the Throne, be all the Honour and the Glory, for evermore,</hi> Amen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
